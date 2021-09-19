@@ -5,18 +5,19 @@ excerpt: Home
 
 ## About Me
 
-I am a second year **direct PhD student** in the [**School of Electrical and Computer Engineering**](https://engineering.purdue.edu/ECE) at [**Purdue Univesity**](https://www.purdue.edu/) advised by [**Prof. Christopher Brinton**](http://www.cbrinton.net/). 
+I am a third year **direct PhD student** in the [**School of Electrical and Computer Engineering**](https://engineering.purdue.edu/ECE){:target="_blank"} at [**Purdue Univesity**](https://www.purdue.edu/){:target="_blank"} advised by [**Prof. Christopher Brinton**](http://www.cbrinton.net/){:target="_blank"}. 
 
-I received my Bachelor's degree in [**Electrical and Electronics Engineering**](https://eee.nitk.ac.in/) from the [**National Institute of Technology Karnataka**](https://www.nitk.ac.in/) in 2015. My Bachelor's thesis focused on **"Supervised and Unsupervised Techniques for Image Segmentation"** advised by [**Prof. Ashvini Chaturvedi**](https://ece.nitk.ac.in/professor/ashvini-chaturvedi).
+I received my Bachelor's degree in [**Electrical and Electronics Engineering**](https://eee.nitk.ac.in/){:target="_blank"} from the [**National Institute of Technology Karnataka**](https://www.nitk.ac.in/){:target="_blank"} in 2015. My Bachelor's thesis focused on **"Supervised and Unsupervised Techniques for Image Segmentation"** advised by [**Prof. Ashvini Chaturvedi**](https://ece.nitk.ac.in/professor/ashvini-chaturvedi){:target="_blank"}.
 
-Prior to joining Purdue, I worked for a year as a **Research Scientist** at a California-based AI-solutions startup [**Foundation AI**](https://www.foundationai.com/) and for over 3 years as **Data Scientist** at a Bangalore-based healthcare startup [Practo](https://www.practo.com/). During my time in the industry, I have **built scalable ML solutions deployed in production** tackling real-world problems by leveraging advances in computer vision (CV), Natual Language Processing (NLP) and Deep Learning (DL). The novel solutions I built also led to **academic publications**, specifically in the field of document classification and low-latency information retrieval (details listed in [**Experience**](/experience/) section).
+Prior to joining Purdue, I worked for a year as a **Research Scientist** at a California-based AI-solutions startup [**Foundation AI**](https://www.foundationai.com/){:target="_blank"} and for over 3 years as **Data Scientist** at a Bangalore-based healthcare startup [Practo](https://www.practo.com/){:target="_blank"}. During my time in the industry, I have **built scalable ML solutions deployed in production** tackling real-world problems by leveraging advances in computer vision (CV), Natual Language Processing (NLP) and Deep Learning (DL). The novel solutions I built also led to **academic publications**, specifically in the field of document classification and low-latency information retrieval (details listed in [**Experience**](/experience/) section).
 
 ## Research Interests
-My current research lies in the intersection of **Representation Learning, Distributed Learning, and Optimization**. One of the main focus of my work is to design and analyse representation learning algorithms that are **scalable, communication-efficient, memory-efficient and robust to adversarial perturbations**.
+My research interest lie at the intersection of **Representation Learning, Distributed Learning, and Optimization**. One of the main focus of my work is to design and analyse representation learning algorithms that are **scalable, communication-efficient, memory-efficient and robust to adversarial perturbations**.
 
 ## Recent Updates
 
-- Journal submission to [**IEEE JSAC 2021**](https://www.comsoc.org/publications/journals/ieee-jsac){:target="_blank"}: [Two Timescale Hybrid Federated Learning with Cooperative D2D Local Model Aggregations](https://cbrinton.net/TTHF-JSAC-2021.pdf){:target="_blank"}
-- Conference submission to [**ICML 2021**](https://icml.cc/Conferences/2021/CallForPapers){:target="_blank"}: [Towards Generalized and Distributed Privacy-Preserving Representation Learning](https://arxiv.org/abs/2010.01792){:target="_blank"}
+- Conference submission to [**ICLR 2022**](https://iclr.cc/){:target="_blank"}: Recycling Model Updates in Federated Learning: A Gradient-Space Odyssey 
+- Workshop submission to [**NuerIPS 2021**](https://neurips.cc/){:target="_blank"}: [Towards Generalized and Distributed Privacy-Preserving Representation Learning](https://arxiv.org/abs/2010.01792){:target="_blank"}
+- Journal accept to [**IEEE JSAC 2021**](https://www.comsoc.org/publications/journals/ieee-jsac){:target="_blank"}: [Two Timescale Hybrid Federated Learning with Cooperative D2D Local Model Aggregations](https://cbrinton.net/TTHF-JSAC-2021.pdf){:target="_blank"}. An abridged version also got accepted at IEEE Globecom, 2021.
 - Journal submission to [**IEEE TON 2020**](https://newslab.ece.ohio-state.edu/ton/){:target="_blank"}: [Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks](https://arxiv.org/abs/2007.09511){:target="_blank"}
 

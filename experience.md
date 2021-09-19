@@ -7,21 +7,25 @@ layout: resume
 __Purdue University__
 <br/>Graduate Research Assistant
 
+
 ## Professional Experience
+
+`June 2021 - August 2021`
+__Zillow Group, Seattle, WA__
+<br/> Applied Scientist-Intern
+
+- **Unsupervised Multimodal Representation Learning**: Developed an unsupervised multimodal (visual, lingual, spatial etc. modes) representation learning framework that leverages the unlabeled raw documents (e.g.  property documents) and weakly labeled image dataset (e.g.  listings images and descriptions) to learn transformations that help several downstream few-shot learningtasks including sequence classification, token classification, image attribute detection and localization etc.
 
 `September 2018 - August 2019`
 __Foundation AI, Los Angeles, CA__
 <br/>Research Scientist
 
-`January 2017 - August 2018`
-__Practo Technologies, Bangalore, India__
-<br/>Data Scientist
+- **Computer Vision and NLP for Document Understanding**:
 
-`May 2016 - January 2017`
+`June 2015 - August 2018`
 __Practo Technologies, Bangalore, India__
-<br/>Senior Software Engineer
+<br/>Data Scientist, Senior Software Engineer, Software Engineer
 
-`June 2015 - May 2016`
-__Practo Technologies, Bangalore, India__
-<br/>Software Engineer
-
+- **Computer Vision for Medical Imaging**:
+- **Knowledge Representation using Finite State Machines**:
+- **NLP for Automated Medical Document Annotation**:
