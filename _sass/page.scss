@@ -742,3 +742,28 @@ $button-size: 1.5rem;
 #goog-wm-sb {
 	@extend .btn;
 }
+
+
+/*publication photos*/
+.pubimg{
+    display: block;//none;
+    float: left;
+    padding: 0 10px 0 0;
+    width: 110px;
+    //@media #{$small} {
+    //	display: block;
+    //}
+}
+
+
+/*university logos*/
+.eduimg{
+    display: none;
+    float: left;
+    padding: 0 10px 0 0;
+    width: 50px;
+    @media #{$large} {
+	display: block;
+    }
+}
+
