@@ -16,7 +16,7 @@ layout: resume
 [J2] Lin, Frank Po-Chen, Seyyedali Hosseinalipour, _Sheikh Shams Azam_, Christopher G. Brinton, and Nicolo Michelusi. ["Semi-decentralized federated learning with cooperative D2D local model aggregations."](https://ieeexplore.ieee.org/abstract/document/9562522){:target="_blank"} IEEE Journal on Selected Areas in Communications (JSAC) (2021). [[preprint]](https://arxiv.org/abs/2103.10481){:target="_blank"}
 
 ![](/images/qmap.png){:.pubimg}
-[J1] _Azam, Sheikh Shams_, Manoj Raju, Venkatesh Pagidimarri, and Vamsi Chandra Kasivajjala. ["Q-Map: Clinical Concept Mining from Clinical Documents."](https://publications.waset.org/10009490/pdf){:target="_blank"} World Academy of Science, Engineering and Technology, Open Science Index 141, International Journal of Computer and Information Engineering (2018), 12(9), 691 - 696. [[preprint]](https://arxiv.org/abs/1804.11149){:target="_blank"} [[slides]](https://drive.google.com/file/d/1DGFSsaRQIcWbYTSgilYVWDCwiikDg_Fh/view?usp=sharing){:target="_blank"}
+[J1] _Azam, Sheikh Shams_, Manoj Raju, Venkatesh Pagidimarri, and Vamsi Chandra Kasivajjala. ["Q-Map: Clinical Concept Mining from Clinical Documents."](https://publications.waset.org/10009490/pdf){:target="_blank"} World Academy of Science, Engineering and Technology, International Journal of Computer and Information Engineering (2018). [[preprint]](https://arxiv.org/abs/1804.11149){:target="_blank"} [[slides]](https://drive.google.com/file/d/1DGFSsaRQIcWbYTSgilYVWDCwiikDg_Fh/view?usp=sharing){:target="_blank"}
 
 ## Workshop
 
