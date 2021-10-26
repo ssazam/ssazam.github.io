@@ -9,10 +9,10 @@ home-page: https://www.purdue.edu/
 owner:
   name: Sheikh Shams Azam
   avatar: bio-photo.jpg
-  bio: "M.S/Ph.D Student @ School of ECE"
+  bio: "M.S/Ph.D Student, Purdue ECE"
   email: azam1[at]purdue.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: #sshamssam
+  twitter: sshamsazam
   linkedin: shams-sam
   github: shams-sam
   orcid: 0000-0001-7678-5092
@@ -24,7 +24,7 @@ owner:
     verify:
     scholar: nLEZZDwAAAAJ
   facebook: 
-  instagram:
+  instagram: sshamsazam
   bing-verify:
   stackoverflow: #7726383/m1cro1ce
   xing: #username
