@@ -17,7 +17,7 @@ __Purdue University__
 __Zillow Group, Seattle, WA__
 <br/> Applied Scientist-Intern
 
-- **Unsupervised Multimodal Representation Learning**: Developed an unsupervised multimodal (visual, lingual, spatial etc. modes) representation learning framework that leverages the unlabeled raw documents (e.g.  property documents) and weakly labeled image dataset (e.g.  listings images and descriptions) to learn transformations that help several downstream few-shot learningtasks including sequence classification, token classification, image attribute detection and localization etc.
+- **Unsupervised Multimodal Representation Learning**: Developed an unsupervised multimodal (visual, lingual, spatial, etc. modes) representation learning framework that leverages the unlabeled raw documents (e.g.  property documents) and weakly labeled image dataset (e.g.  listings images and descriptions) to learn transformations that help several downstream few-shot learningtasks including sequence classification, token classification, image attribute detection, and localization etc.
 
 ![](/images/fai-logo.png){:.eduimg}
 `September 2018 - August 2019`
