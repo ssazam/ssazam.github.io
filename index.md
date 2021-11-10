@@ -16,6 +16,7 @@ My research interest lies at the intersection of _Representation Learning, Densi
 
 ## Recent Updates
 
+- Conference submission to [ICLR 2022](https://iclr.cc/){:target="_blank"}: Rank Deficiency of SGD: A Gradient-Space Exploration and it's Exploitation in Federated Learning.
 - Our paper ["A Generalized and Distributable Generative Model for Private Representation Learning"](https://arxiv.org/abs/2010.01792){:target="_blank"} got accepted at the [NeurIPS Workshop on Deep Generative Models and Downstream Applications 2021](https://dgms-and-applications.github.io/2021/){:target="_blank"}.
 - Our paper ["Semi-decentralized Federated Learning with Cooperative D2D Local Model Aggregations"](https://ieeexplore.ieee.org/abstract/document/9562522){:target="_blank"} got accepted at [IEEE Journal on Selected Areas in Communication (JSAC)](https://www.comsoc.org/publications/journals/ieee-jsac){:target="_blank"}. An abridged version ["Federated Learning Beyond the Star: Local D2D Model Consensus with Global Cluster Sampling"](https://arxiv.org/abs/2109.03350){:target="_blank"} also got accepted at [IEEE Globecom](https://globecom2021.ieee-globecom.org/){:target="_blank"}, 2021.
 - Our paper ["Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks"](https://arxiv.org/abs/2007.09511){:target="_blank"} received a _minor revision_ decision from the [IEEE/ACM Transactions on Networking Journal](https://newslab.ece.ohio-state.edu/ton/){:target="_blank"}.
