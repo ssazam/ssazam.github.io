@@ -27,9 +27,6 @@ layout: resume
 
 ## Under Review
 
-![](/images/lbgm.png){:.pubimg}
-[U2] _Azam, Sheikh Shams_, Seyyedali Hosseinalipour, Qiang Qiu, and Christopher G. Brinton. ["Recycling Model Updates in Federated Learning: A Gradient-Space Odyssey."](){:target="_blank"} Under review ICLR 2022. <br/><br/><br/>
-
 ![](/images/mhfl.png){:.pubimg}
 [U1] Hosseinalipour, Seyyedali, _Sheikh Shams Azam_, Christopher G. Brinton, Nicolo Michelusi, Vaneet Aggarwal, David J. Love, and Huaiyu Dai. ["Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks."](){:target="_blank"} Under review IEEE Transactions on Networking (TON). [[preprint]](https://arxiv.org/abs/2007.09511){:target="_blank"}
 
