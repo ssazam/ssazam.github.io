@@ -21,7 +21,7 @@ layout: resume
 ## Workshop
 
 ![](/images/eigan.png){:.pubimg}
-[W1] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. ["A Generalized and Distributable Generative Model for Private Representation Learning."](https://arxiv.org/abs/2010.01792){:target="_blank"} In NeurIPS Workshop on Deep Generative Models and Downstream Applications, 2021. [[preprint]](https://arxiv.org/abs/2010.01792){:target="_blank"}
+[W1] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. ["A Generalized and Distributable Generative Model for Private Representation Learning."](https://arxiv.org/abs/2010.01792){:target="_blank"} In NeurIPS Workshop on Deep Generative Models and Downstream Applications, 2021. [[preprint]](https://arxiv.org/abs/2010.01792){:target="_blank"}[[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202021/1f0e3dad99908345f7439f8ffabdffc4_RQ8y9RY.png){:target="_blank"}
 
 
 
