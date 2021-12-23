@@ -30,7 +30,7 @@ table td:nth-of-type(3) {
 }
 </style>
 
-**<ins>Fall 2021</ins> (Under Progress)**
+**Fall 2021**
 
 | [ECE 595](https://engineering.purdue.edu/ece595cv/){:target="_blank"} | Deep Learning for Computer Vision | [Prof. Jeffrey Siskind](https://engineering.purdue.edu/~qobi/){:target="_blank"} |
 | [ECE 570](https://www.davidinouye.com/course/ece57000-fall-2021/){:target="_blank"} | Artificial Intelligence | [Prof. David I. Inouye](https://www.davidinouye.com/){:target="_blank"} |
