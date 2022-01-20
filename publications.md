@@ -4,11 +4,15 @@ layout: resume
 ---
 ## Conference
 
+![](/images/lbgm.png){:.pubimg}
+[C4] _Azam, Sheikh Shams_, Seyyedali Hosseinalipour, Qiang Qiu, and Christopher G. Brinton. ["Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?"](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} In International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"_} <br/><br/>
+
+
 ![](/images/eigan.png){:.pubimg}
-[C3] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. ["Can we Generalize and Distribute Private Representation Learning?"](https://arxiv.org/abs/2010.01792){:target="_blank"} In AISTATS, 2021. [[preprint]](https://arxiv.org/abs/2010.01792){:target="_blank"}
+[C3] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. ["Can we Generalize and Distribute Private Representation Learning?"](https://arxiv.org/abs/2010.01792){:target="_blank"} In International Conference on Artificial Intelligence and Statistics (AISTATS), 2022. [[preprint]](https://arxiv.org/abs/2010.01792){:target="_blank"} <br/>
 
 ![](/images/flbeyondstar.png){:.pubimg}
-[C2] Lin, Frank Po-Chen, Seyyedali Hosseinalipour, _Sheikh Shams Azam_, Christopher G. Brinton, Nicolo Michelusi. ["Federated Learning Beyond the Star: Local D2D Model Consensus with Global Cluster Sampling."](https://arxiv.org/abs/2109.03350){:target="_blank"} In IEEE GlobeCom, 2021. [[preprint]](https://arxiv.org/abs/2109.03350){:target="_blank"} [[slides]](https://drive.google.com/file/d/1C5dA-IaIZgnvjcWVaffAaOtPUtN8JRzL/view?usp=sharing){:target="_blank_""}
+[C2] Lin, Frank Po-Chen, Seyyedali Hosseinalipour, _Sheikh Shams Azam_, Christopher G. Brinton, Nicolo Michelusi. ["Federated Learning Beyond the Star: Local D2D Model Consensus with Global Cluster Sampling."](https://arxiv.org/abs/2109.03350){:target="_blank"} In IEEE Global Communications Conference (GlobeCom), 2021. [[preprint]](https://arxiv.org/abs/2109.03350){:target="_blank"} [[slides]](https://drive.google.com/file/d/1C5dA-IaIZgnvjcWVaffAaOtPUtN8JRzL/view?usp=sharing){:target="_blank_""}
 
 ![](/images/cascadenet.png){:.pubimg}
 [C1] _Azam, Sheikh Shams_, Manoj Raju, Venkatesh Pagidimarri, and Vamsi Chandra Kasivajjala. ["CASCADENET: An LSTM Based Deep Learning Model for Automated ICD-10 Coding."](https://link.springer.com/chapter/10.1007/978-3-030-12385-7_6){:target="_blank"} In Future of Information and Communication Conference (FICC), 2019. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-12385-7_6){:target="_blank"} [[preprint]](https://www.researchgate.net/profile/Sheikh_Shams_Azam/publication/330831968_CASCADENET_An_LSTM_based_deep_learning_model_for_automated_ICD-10_coding/links/5cb464f2299bf12097666d63/CASCADENET-An-LSTM-based-deep-learning-model-for-automated-ICD-10-coding.pdf){:target="_blank"} [[slides]](https://drive.google.com/file/d/1P0-ih5VfSx4INWS9oRnezkNJ9PAnn1OI/view?usp=sharing){:target="_blank"}
@@ -31,7 +35,5 @@ layout: resume
 
 
 
-## Under Review
+<!-- ## Under Review -->
 
-![](/images/lbgm.png){:.pubimg}
-[U2] _Azam, Sheikh Shams_, Seyyedali Hosseinalipour, Qiang Qiu, and Christopher G. Brinton. ["Rank Deficiency of SGD: A Gradient-Space Exploration and it's Exploitation in Federated Learning."](){:target="_blank"} Under review ICLR 2022. <br/><br/><br/>
