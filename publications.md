@@ -5,11 +5,11 @@ layout: resume
 ## Conference
 
 ![](/images/lbgm.png){:.pubimg}
-[C4] _Azam, Sheikh Shams_, Seyyedali Hosseinalipour, Qiang Qiu, and Christopher G. Brinton. ["Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?"](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} In International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"_} <br/><br/>
+[C4] _Azam, Sheikh Shams_, Seyyedali Hosseinalipour, Qiang Qiu, and Christopher G. Brinton. ["Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?"](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} In International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} [[preprint]](https://arxiv.org/abs/2202.00280){:target="_blank"}
 
 
 ![](/images/eigan.png){:.pubimg}
-[C3] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. ["Can we Generalize and Distribute Private Representation Learning?"](https://arxiv.org/abs/2010.01792){:target="_blank"} In International Conference on Artificial Intelligence and Statistics (AISTATS), 2022. [[preprint]](https://arxiv.org/abs/2010.01792){:target="_blank"} <br/>
+[C3] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. ["Can we Generalize and Distribute Private Representation Learning?"](https://arxiv.org/abs/2010.01792){:target="_blank"} In International Conference on Artificial Intelligence and Statistics (AISTATS), 2022. [[preprint]](https://arxiv.org/abs/2010.01792){:target="_blank"}
 
 ![](/images/flbeyondstar.png){:.pubimg}
 [C2] Lin, Frank Po-Chen, Seyyedali Hosseinalipour, _Sheikh Shams Azam_, Christopher G. Brinton, Nicolo Michelusi. ["Federated Learning Beyond the Star: Local D2D Model Consensus with Global Cluster Sampling."](https://arxiv.org/abs/2109.03350){:target="_blank"} In IEEE Global Communications Conference (GlobeCom), 2021. [[preprint]](https://arxiv.org/abs/2109.03350){:target="_blank"} [[slides]](https://drive.google.com/file/d/1C5dA-IaIZgnvjcWVaffAaOtPUtN8JRzL/view?usp=sharing){:target="_blank_""}
