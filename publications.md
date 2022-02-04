@@ -5,7 +5,7 @@ layout: resume
 ## Conference
 
 ![](/images/lbgm.png){:.pubimg}
-[C4] _Azam, Sheikh Shams_, Seyyedali Hosseinalipour, Qiang Qiu, and Christopher G. Brinton. ["Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?"](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} In International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} [[preprint]](https://arxiv.org/abs/2202.00280){:target="_blank"}
+[C4] _Azam, Sheikh Shams_, Seyyedali Hosseinalipour, Qiang Qiu, and Christopher G. Brinton. ["Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?"](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} In International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} [[preprint]](https://arxiv.org/abs/2202.00280){:target="_blank"} <br><br>
 
 
 ![](/images/eigan.png){:.pubimg}
@@ -20,7 +20,7 @@ layout: resume
 ## Journal
 
 ![](/images/mhfl.png){:.pubimg}
-[J3] Hosseinalipour, Seyyedali, _Sheikh Shams Azam_, Christopher G. Brinton, Nicolo Michelusi, Vaneet Aggarwal, David J. Love, and Huaiyu Dai. ["Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks."](){:target="_blank"} IEEE/ACM Transactions on Networking (TON), 2020. [[preprint]](https://arxiv.org/abs/2007.09511){:target="_blank"}
+[J3] Hosseinalipour, Seyyedali, _Sheikh Shams Azam_, Christopher G. Brinton, Nicolo Michelusi, Vaneet Aggarwal, David J. Love, and Huaiyu Dai. ["Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks."](https://ieeexplore.ieee.org/document/9705093){:target="_blank"} IEEE/ACM Transactions on Networking (TON), 2020. [[paper]](https://ieeexplore.ieee.org/document/9705093){:target="_blank"} [[preprint]](https://arxiv.org/abs/2007.09511){:target="_blank"}
 
 ![](/images/tthl.png){:.pubimg}
 [J2] Lin, Frank Po-Chen, Seyyedali Hosseinalipour, _Sheikh Shams Azam_, Christopher G. Brinton, and Nicolo Michelusi. ["Semi-decentralized federated learning with cooperative D2D local model aggregations."](https://ieeexplore.ieee.org/abstract/document/9562522){:target="_blank"} IEEE Journal on Selected Areas in Communications (JSAC) (2021). [[paper]](https://ieeexplore.ieee.org/abstract/document/9562522){:target="_blank"} [[preprint]](https://arxiv.org/abs/2103.10481){:target="_blank"}

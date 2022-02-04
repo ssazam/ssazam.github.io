@@ -19,7 +19,7 @@ My research interest lies at the intersection of _Representation Learning, Densi
 - January, 2022
     - Our paper ["Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?"](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} got accepted at the [International Conference on Learning Representations (ICLR), 2022](https://iclr.cc/){:target="_blank"}.
     - Our paper ["Can we Generalize and Distribute Private Representation Learning?"](https://arxiv.org/abs/2010.01792){:target="_blank"} got accepted at the [International Conference on Artificial Intelligence and Statistics (AISTATS), 2022](http://aistats.org/aistats2022/){:target="_blank"}.
-    - Our paper ["Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks"](https://arxiv.org/abs/2007.09511){:target="_blank"} got accepted at [IEEE/ACM Transactions on Networking Journal](https://newslab.ece.ohio-state.edu/ton/){:target="_blank"}.
+    - Our paper ["Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks"](https://ieeexplore.ieee.org/document/9705093){:target="_blank"} got accepted at [IEEE/ACM Transactions on Networking Journal](https://newslab.ece.ohio-state.edu/ton/){:target="_blank"}.
 <!-- - Conference submission to [ICLR 2022](https://iclr.cc/){:target="_blank"}: Rank Deficiency of SGD: A Gradient-Space Exploration and it's Exploitation in Federated Learning. -->
 - 2021
     - Our paper ["A Generalized and Distributable Generative Model for Private Representation Learning"](https://openreview.net/forum?id=cRKEnMKHY_z){:target="_blank"} got accepted at the [NeurIPS Workshop on Deep Generative Models and Downstream Applications 2021](https://dgms-and-applications.github.io/2021/){:target="_blank"}.
