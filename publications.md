@@ -5,7 +5,7 @@ layout: resume
 ## Conference
 
 ![](/images/lbgm.png){:.pubimg}
-[C4] _Azam, Sheikh Shams_, Seyyedali Hosseinalipour, Qiang Qiu, and Christopher G. Brinton. ["Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?"](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} In International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} [[preprint]](https://arxiv.org/abs/2202.00280){:target="_blank"} [[poster]](https://iclr.cc/media/PosterPDFs/ICLR%202022/5b0fa0e4c041548bb6289e15d865a696.png){:target="_blank_""}<br><br>
+[C4] _Azam, Sheikh Shams_, Seyyedali Hosseinalipour, Qiang Qiu, and Christopher G. Brinton. ["Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?"](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} In International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} [[preprint]](https://arxiv.org/abs/2202.00280){:target="_blank"} [[poster]](https://iclr.cc/media/PosterPDFs/ICLR%202022/5b0fa0e4c041548bb6289e15d865a696_tUeYU2K.png){:target="_blank_""}<br><br>
 
 
 ![](/images/eigan.png){:.pubimg}
