@@ -5,11 +5,11 @@ layout: resume
 ## Conference
 
 ![](/images/lbgm.png){:.pubimg}
-[C4] _Azam, Sheikh Shams_, Seyyedali Hosseinalipour, Qiang Qiu, and Christopher G. Brinton. ["Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?"](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} In International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} [[preprint]](https://arxiv.org/abs/2202.00280){:target="_blank"} [[poster]](https://iclr.cc/media/PosterPDFs/ICLR%202022/5b0fa0e4c041548bb6289e15d865a696_tUeYU2K.png){:target="_blank_""}<br><br>
+[C4] _Azam, Sheikh Shams_, Seyyedali Hosseinalipour, Qiang Qiu, and Christopher G. Brinton. ["Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?"](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} In International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} [[preprint]](https://arxiv.org/abs/2202.00280){:target="_blank"} [[poster]](https://iclr.cc/media/PosterPDFs/ICLR%202022/5b0fa0e4c041548bb6289e15d865a696_tUeYU2K.png){:target="_blank_""} [[slides]](https://drive.google.com/file/d/1-8r-4ckGZqFV3t5M3gAi0MacFgHvCb1_/view?usp=sharing){:target="_blank"}<br><br>
 
 
 ![](/images/eigan.png){:.pubimg}
-[C3] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. ["Can we Generalize and Distribute Private Representation Learning?"](https://arxiv.org/abs/2010.01792){:target="_blank"} In International Conference on Artificial Intelligence and Statistics (AISTATS), 2022. [[preprint]](https://arxiv.org/abs/2010.01792){:target="_blank"}[[poster]](https://virtual.aistats.org/media/PosterPDFs/AISTATS%202022/4d6b3e38b952600251ee92fe603170ff.png){:target="_blank_""}
+[C3] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. ["Can we Generalize and Distribute Private Representation Learning?"](https://arxiv.org/abs/2010.01792){:target="_blank"} In International Conference on Artificial Intelligence and Statistics (AISTATS), 2022. [[preprint]](https://arxiv.org/abs/2010.01792){:target="_blank"} [[poster]](https://virtual.aistats.org/media/PosterPDFs/AISTATS%202022/4d6b3e38b952600251ee92fe603170ff.png){:target="_blank_""} [[slides]](https://drive.google.com/file/d/1-6gLEPDOoeS6W7HMgOarugukYGSckx6S/view?usp=sharing){:target="_blank_"}
 
 ![](/images/flbeyondstar.png){:.pubimg}
 [C2] Lin, Frank Po-Chen, Seyyedali Hosseinalipour, _Sheikh Shams Azam_, Christopher G. Brinton, Nicolo Michelusi. ["Federated Learning Beyond the Star: Local D2D Model Consensus with Global Cluster Sampling."](https://arxiv.org/abs/2109.03350){:target="_blank"} In IEEE Global Communications Conference (GlobeCom), 2021. [[preprint]](https://arxiv.org/abs/2109.03350){:target="_blank"} [[slides]](https://drive.google.com/file/d/1C5dA-IaIZgnvjcWVaffAaOtPUtN8JRzL/view?usp=sharing){:target="_blank_""}
@@ -31,7 +31,7 @@ layout: resume
 ## Workshop
 
 ![](/images/eigan.png){:.pubimg}
-[W1] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. ["A Generalized and Distributable Generative Model for Private Representation Learning."](https://openreview.net/forum?id=cRKEnMKHY_z){:target="_blank"} In NeurIPS Workshop on Deep Generative Models and Downstream Applications, 2021. [[paper]](https://openreview.net/forum?id=cRKEnMKHY_z){:target="_blank"}[[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202021/1f0e3dad99908345f7439f8ffabdffc4_UI8GosF.png){:target="_blank"}
+[W1] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. ["A Generalized and Distributable Generative Model for Private Representation Learning."](https://openreview.net/forum?id=cRKEnMKHY_z){:target="_blank"} In NeurIPS Workshop on Deep Generative Models and Downstream Applications, 2021. [[paper]](https://openreview.net/forum?id=cRKEnMKHY_z){:target="_blank"} [[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202021/1f0e3dad99908345f7439f8ffabdffc4_UI8GosF.png){:target="_blank"}
 
 
 
