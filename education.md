@@ -8,7 +8,7 @@ layout: resume
 ![](/images/purdue-logo.png){:.eduimg}
 `August 2019 - Present`
 [__Purdue University__](https://www.purdue.edu/){:target="_blank" style="color:#343434"}
-<br/>M.S/Ph.D. in Electrical and Computer Engineering
+<br/>M.S ([thesis](https://hammer.purdue.edu/articles/thesis/Towards_Privacy_and_Communication_Efficiency_in_Distributed_Representation_Learning/20029550/1){:target="_blank"}) in Electrical and Computer Engineering
 
 ![](/images/nitk-logo.png){:.eduimg}
 `August 2011 - May 2015`
@@ -29,6 +29,10 @@ table td:nth-of-type(3) {
     width: 30%;
 }
 </style>
+
+**Spring 2022**
+
+| [ECE 595](https://engineering.purdue.edu/ece695bh/){:target="_blank"} | ML in Bioinfo and Helathcare | [Prof. Xiaoqian Wang](https://sites.google.com/site/joyxqwang/){:target="_blank"} |
 
 **Fall 2021**
 

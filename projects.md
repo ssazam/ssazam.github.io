@@ -3,6 +3,12 @@ title: Projects
 layout: resume
 ---
 
+## Projects
+- BetaFold: A Lightweight Protein Prediction Architecture. ECE 695, Spring 2022. [[pdf]](https://github.com/shams-sam/BetaFold/blob/master/BetaFold.pdf){:target="_blank"} [[slides]](https://github.com/shams-sam/BetaFold/blob/master/BetaFold_Slides.pdf){:target="_blank"} [[code]](https://github.com/shams-sam/BetaFold){:target="_blank"}
+- Customer Conversion Prediction and Marketing Assistance using NLP, Connected Components, and CatBoost. Spring 2021. [[pdf]](https://drive.google.com/file/d/11mhq_UibvvuBFOEbcPq3ZYnkzN8_XdPZ/view?usp=sharing){:target="_blank"}
+- Variational Auto-Encoder for Multimodal Representation Learning. ECE 570, Fall 2021. [[pdf]](https://github.com/shams-sam/MultiModal-VAE/blob/master/Multimodal_VAE.pdf){:target="_blank"} [[slides]](https://github.com/shams-sam/MultiModal-VAE/blob/master/Multimodal_VAE_Slides.pdf){:target="_blank"} [[code]](https://github.com/shams-sam/MultiModal-VAE){:target="_blank"}
+- Kalman Filter with Neural Networks, and Variational Autoencoders with Normalizing Flows. ECE 695, Spring 2021. [[slides]](https://github.com/shams-sam/EE695-ILGM/blob/master/Presentation.pdf){:target="_blank"} [[code]](https://github.com/shams-sam/EE695-ILGM){:target="_blank"}
+
 ## MOOC Courses
 - **Machine Learning, Coursera**: Solutions to the problems posed in the Coursera course by Dr. Andrew Ng. [[certificate]](https://www.coursera.org/account/accomplishments/certificate/QEAEKZ46KCF4){:target="_blank"} [[github]](https://github.com/shams-sam/CourseraMachineLearningAndrewNg){:target="_blank"}
 

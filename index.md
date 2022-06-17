@@ -16,9 +16,18 @@ My research interest lies at the intersection of _Representation Learning, Densi
 
 ## Recent Updates
 
+- May, 2022
+    - Selected as 1 among the 8 [AI/ML Residents at Apple](https://machinelearning.apple.com/updates/aiml-residency-program-application){:target="_blank"} for the year 2022.
+    - Successfully defended M.S. thesis: ["Towards Privacy and Communication Efficiency in Distributed Representation Learning"](https://hammer.purdue.edu/articles/thesis/Towards_Privacy_and_Communication_Efficiency_in_Distributed_Representation_Learning/20029550/1){:target="_blank"}
+    - We submitted our paper "Efficient Federated Domain Translation" to [NeurIPS, 2022](https://nips.cc/Conferences/2022/Dates){:target="_blank"}
+
+- March, 200
+    - Selected for Google Research Summer Internship, 2022
+    - Got an offer for returning Applied Science Intern at Zillow Group for Summer, 2022.
+
 - January, 2022
     - Our paper ["Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?"](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} got accepted at the [International Conference on Learning Representations (ICLR), 2022](https://iclr.cc/){:target="_blank"}.
-    - Our paper ["Can we Generalize and Distribute Private Representation Learning?"](https://arxiv.org/abs/2010.01792){:target="_blank"} got accepted at the [International Conference on Artificial Intelligence and Statistics (AISTATS), 2022](http://aistats.org/aistats2022/){:target="_blank"}.
+    - Our paper ["Can we Generalize and Distribute Private Representation Learning?"](https://proceedings.mlr.press/v151/shams-azam22a.html){:target="_blank"} got accepted at the [International Conference on Artificial Intelligence and Statistics (AISTATS), 2022](http://aistats.org/aistats2022/){:target="_blank"}.
     - Our paper ["Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks"](https://ieeexplore.ieee.org/document/9705093){:target="_blank"} got accepted at [IEEE/ACM Transactions on Networking Journal](https://newslab.ece.ohio-state.edu/ton/){:target="_blank"}.
 <!-- - Conference submission to [ICLR 2022](https://iclr.cc/){:target="_blank"}: Rank Deficiency of SGD: A Gradient-Space Exploration and it's Exploitation in Federated Learning. -->
 - 2021
