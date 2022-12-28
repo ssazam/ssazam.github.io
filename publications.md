@@ -7,7 +7,6 @@ layout: resume
 ![](/images/lbgm.png){:.pubimg}
 [C4] _Azam, Sheikh Shams_, Seyyedali Hosseinalipour, Qiang Qiu, and Christopher G. Brinton. ["Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?"](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} In International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} [[preprint]](https://arxiv.org/abs/2202.00280){:target="_blank"} [[poster]](https://iclr.cc/media/PosterPDFs/ICLR%202022/5b0fa0e4c041548bb6289e15d865a696_tUeYU2K.png){:target="_blank_""} [[slides]](https://drive.google.com/file/d/1-8r-4ckGZqFV3t5M3gAi0MacFgHvCb1_/view?usp=sharing){:target="_blank"}<br><br>
 
-
 ![](/images/eigan.png){:.pubimg}
 [C3] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. ["Can we Generalize and Distribute Private Representation Learning?"](https://proceedings.mlr.press/v151/shams-azam22a.html){:target="_blank"} In International Conference on Artificial Intelligence and Statistics (AISTATS), 2022. [[paper]](https://proceedings.mlr.press/v151/shams-azam22a.html){:target="_blank"} [[preprint]](https://arxiv.org/abs/2010.01792){:target="_blank"} [[poster]](https://virtual.aistats.org/media/PosterPDFs/AISTATS%202022/4d6b3e38b952600251ee92fe603170ff.png){:target="_blank_""} [[slides]](https://drive.google.com/file/d/1-6gLEPDOoeS6W7HMgOarugukYGSckx6S/view?usp=sharing){:target="_blank"}
 
