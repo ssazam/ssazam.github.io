@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: SS Azam | PhD @ Purdue
+title: Shams | AIML Resident | Apple
 locale: en_US
 logo: logo.png
 home-page: https://www.purdue.edu/
@@ -9,8 +9,8 @@ home-page: https://www.purdue.edu/
 owner:
   name: Sheikh Shams Azam
   avatar: bio-photo.jpg
-  bio: "M.S. Student, Purdue ECE"
-  email: azam1[at]purdue.edu
+  bio: "AIML Resident | Siri | Apple"
+  email: s.shams.sam[at]gmail[dot]com
   # Do not include the @ symbol in your Twitter username
   twitter: sshamsazam
   linkedin: shams-sam
@@ -20,7 +20,7 @@ owner:
   mendeley: #username
   google:
     plus: #username
-    analytics: UA-108148924-2
+    analytics: G-NNL7YYGMNY
     verify:
     scholar: nLEZZDwAAAAJ
   facebook: 

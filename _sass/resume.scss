@@ -26,7 +26,7 @@
   position: relative;
   margin-right: 0;
   width: 100%;
-
+  margin-bottom: 1.25rem;
 }
 
 .resume code {
@@ -58,9 +58,6 @@
   width: 100%;
   margin-top: 0.25em;
   text-align: left;
-}
-.resume li {
-  margin-left: 2em;
 }
 .resume h1, h2, h3, h4 {
   font-weight: bold;

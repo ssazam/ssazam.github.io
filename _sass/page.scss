@@ -746,14 +746,16 @@ $button-size: 1.5rem;
 
 /*publication photos*/
 .pubimg{
-    display: block;//none;
-    float: left;
-    padding: 0 10px 0 0;
-    width: 110px;
-    padding-bottom: 1.5rem;
-    //@media #{$small} {
-    //	display: block;
-    //}
+    width: 100px;
+    @media #{$micro} {
+	padding-top: 12%;
+    }
+    @media #{$small} {
+	padding-top: 8%;
+    }
+    @media #{$large} {
+	padding-top: 2%;
+    }
 }
 
 
@@ -768,3 +770,51 @@ $button-size: 1.5rem;
     }
 }
 
+.no-bullets{
+    list-style-type: none;
+    margin-left: 0px;
+    color: gray;
+}
+
+.collapsible{
+    background-color: #fff;
+    color: #0101ff;
+    cursor: pointer;
+    padding: 0px;
+    border: none;
+    &:hover {
+	color: #00009a;
+    }
+}
+
+.collapsible-cite {
+    padding: 10px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    margin: -20px 0px 10px 15%;
+    border-radius: 5px;
+}
+
+.collapsible-details {
+    padding: 10px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    margin: 2px 0px 10px 32px;
+    border-radius: 5px;
+    @media #{$large} {
+      margin: 2px 0px 10px 76px;
+    }
+}
+
+.resume li {
+  margin-left: 2em;
+  @media #{$large} {
+    margin-left: 4.8em;
+  }
+}
+
+.collapsible-details li {
+  margin-left: 1em;
+}
