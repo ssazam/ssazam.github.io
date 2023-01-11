@@ -16,27 +16,27 @@ __Purdue University__
 <br/>Graduate Research Assistant (RA)
 
 <ul>
-  <li>Learning from Partially-observed Multimodal Data (Sponsored by HP Lab) <button type="button" class="collapsible">[details]</button></li>
+  <li class="resume-li">Learning from Partially-observed Multimodal Data (Sponsored by HP Lab) <button type="button" class="collapsible">[details]</button></li>
     <div class="collapsible-details">
     Developing unsupervised techniques to learn from partially observed multimodal datasets. The aim is to learn high quality latent representation of datasets (with missing modalities) using self-supervised, unsupervised techniques.
     </div>
 
-  <li>Efficient Clustering of Document in Clustered Vector Spaces (Sponsored by HP Lab) <button type="button" class="collapsible">[details]</button></li>
+  <li class="resume-li">Efficient Clustering of Document in Clustered Vector Spaces (Sponsored by HP Lab) <button type="button" class="collapsible">[details]</button></li>
     <div class="collapsible-details">
     Developed a novel technique for interpretable document clustering to  help curate data for downstream applications such as personalization of marketing campaigns for focus groups.
     </div>
 
-  <li>Federated Private Representation Learning (Sponsored by Northrupp Grumman) <button type="button" class="collapsible">[details]</button></li>
+  <li class="resume-li">Federated Private Representation Learning (Sponsored by Northrupp Grumman) <button type="button" class="collapsible">[details]</button></li>
     <div class="collapsible-details">
     Private representation learning using Generative Adversarial Networks (GANs) on distributed datasets using differentially private parameter sharing (see <a href="/publications/#c3">Publications - C3</a>).
     </div>
 
-  <li>Link Prediction in Social Learning Networks <button type="button" class="collapsible">[details]</button></li>
+  <li class="resume-li">Link Prediction in Social Learning Networks <button type="button" class="collapsible">[details]</button></li>
     <div class="collapsible-details">
     Graph neural network based link prediction in social learning networks for connection recommendations using both learnt and explicit network metrics.
     </div>
 
-  <li>Publications and projects <button type="button" class="collapsible">[details]</button></li>
+  <li class="resume-li">Publications and projects <button type="button" class="collapsible">[details]</button></li>
     <div class="collapsible-details">
     <ul>
       <li>Conference publications: <a href="/publications/#c4">C4</a> - <a href="/publications/#c2">C2</a></li>
@@ -55,7 +55,7 @@ __Zillow Group, Seattle, WA__
 <br/> Applied Scientist-Intern
 
 <ul>
-  <li>Unsupervised Multimodal Representation Learning and Finetuning for Document Understanding and Scene Attribute Recognition <button type="button" class="collapsible">[details]</button></li>
+  <li class="resume-li">Unsupervised Multimodal Representation Learning and Finetuning for Document Understanding and Scene Attribute Recognition <button type="button" class="collapsible">[details]</button></li>
     <div class="collapsible-details">
     <ul>
       <li>Developed an unsupervised multimodal (visual, lingual, spatial, etc. modes) representation learning framework that leverages the unlabeled raw documents (e.g.  property documents) and weakly labeled image dataset (e.g.  listings images and descriptions).</li>
@@ -72,7 +72,7 @@ __Foundation AI, Los Angeles, CA__
 <br/>Research Scientist
 
 <ul>
-  <li>Computer Vision and NLP for Document Understanding <button type="button" class="collapsible">[details]</button></li>
+  <li class="resume-li">Computer Vision and NLP for Document Understanding <button type="button" class="collapsible">[details]</button></li>
     <div class="collapsible-details">
     <ul>
       <li>Development of novel CV methods for document analysis and OCR using GANs, CNNs and Graph convolutions.</li>
@@ -80,7 +80,7 @@ __Foundation AI, Los Angeles, CA__
     </ul>
     </div>
 
-  <li>Publications and projects <button type="button" class="collapsible">[details]</button></li>
+  <li class="resume-li">Publications and projects <button type="button" class="collapsible">[details]</button></li>
     <div class="collapsible-details">
     <ul>
       <li>Conference publications: <a href="/publications/#c1">C1</a></li>
@@ -97,7 +97,7 @@ __Practo Technologies, Bangalore, India__
 <br/>Data Scientist, Senior Software Engineer, Software Engineer
 
 <ul>
-  <li>Computer Vision for Medical Imaging <button type="button" class="collapsible">[details]</button></li>
+  <li class="resume-li">Computer Vision for Medical Imaging <button type="button" class="collapsible">[details]</button></li>
     <div class="collapsible-details">
     <ul>
       <li>Developed novel CV models for diagnosing lung-cancer, brain tumor, and diabetic retinopathy using radiology images.</li>
@@ -106,7 +106,7 @@ __Practo Technologies, Bangalore, India__
     </ul>
     </div>
 
-  <li>NLP for Automated Medical Document Annotation <button type="button" class="collapsible">[details]</button></li>
+  <li class="resume-li">NLP for Automated Medical Document Annotation <button type="button" class="collapsible">[details]</button></li>
     <div class="collapsible-details">
     <ul>
       <li>Developed methods such as Q-Map for fast retrieval of concepts from text documents (see <a href="/publications/#j1">J1</a>) and CASCADENET - a hierarchical deep neural network for massively categorical classification (see <a href="/publications/#c1">C1</a>) - for automated coding ICD-10 (International Code for Diseases), CPT (Current ProceduralTerminology) of clinical documents.</li>
@@ -114,7 +114,7 @@ __Practo Technologies, Bangalore, India__
     </ul>
     </div>
 
-  <li>Publications and projects <button type="button" class="collapsible">[details]</button></li>
+  <li class="resume-li">Publications and projects <button type="button" class="collapsible">[details]</button></li>
     <div class="collapsible-details">
     <ul>
       <li>Journal publications: <a href="/publications/#j1">J1</a></li>
