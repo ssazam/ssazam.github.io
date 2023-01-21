@@ -16,7 +16,20 @@ table td:nth-of-type(2) {
 
 ## Conference
 
-| ![](/images/lbgm.png){:.pubimg #c4} | [C4] _Azam, Sheikh Shams_, [Seyyedali Hosseinalipour][ali]{:target="_blank"}, [Qiang Qiu][qiu]{:target="_blank"}, and [Christopher G. Brinton][chris]{:target="_blank"}. "Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?" In International Conference on Learning Representations (ICLR), 2022. <br/>[[paper]](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} [[preprint]](https://arxiv.org/abs/2202.00280){:target="_blank"} [[poster]](https://iclr.cc/media/PosterPDFs/ICLR%202022/5b0fa0e4c041548bb6289e15d865a696_tUeYU2K.png){:target="_blank_""} [[slides]](https://drive.google.com/file/d/1-8r-4ckGZqFV3t5M3gAi0MacFgHvCb1_/view?usp=sharing){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+| ![](/images/fedinb.png){:.pubimg #c5} | [C5] [Zeyu Zhou][zeyu]{:target="_blank"}, _Sheikh Shams Azam_, [Christopher G. Brinton][chris]{:target="_blank"}, and [David I. Inouye][inouye]{:target="_blank"}. "Efficient Federated Domain Translation " In International Conference on Learning Representations (ICLR), 2023. <br/>[[paper]](https://openreview.net/forum?id=uhLAcrAZ9cJ){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+
+<div class="collapsible-cite"><pre id='json'>
+@inproceedings{zhou2023fedinb,
+  title     = {Efficient Federated Domain Translation},
+  author    = {Zhou, Zeyu and Azam, Sheikh Shams and Brinton, Christopher G. and Inouye, David I.},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2023},
+  url       = {https://openreview.net/forum?id=uhLAcrAZ9cJ}
+}
+</pre></div>
+
+
+| ![](/images/lbgm.png){:.pubimg #c4} | [C4] _Sheikh Shams Azam_, [Seyyedali Hosseinalipour][ali]{:target="_blank"}, [Qiang Qiu][qiu]{:target="_blank"}, and [Christopher G. Brinton][chris]{:target="_blank"}. "Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?" In International Conference on Learning Representations (ICLR), 2022. <br/>[[paper]](https://openreview.net/forum?id=B7ZbqNLDn-_){:target="_blank"} [[preprint]](https://arxiv.org/abs/2202.00280){:target="_blank"} [[poster]](https://iclr.cc/media/PosterPDFs/ICLR%202022/5b0fa0e4c041548bb6289e15d865a696_tUeYU2K.png){:target="_blank_""} [[slides]](https://drive.google.com/file/d/1-8r-4ckGZqFV3t5M3gAi0MacFgHvCb1_/view?usp=sharing){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
 
 <div class="collapsible-cite"><pre id='json'>
 @inproceedings{azam2022lbgm,
@@ -29,7 +42,7 @@ table td:nth-of-type(2) {
 </pre></div>
 
 
-| ![](/images/eigan.png){:.pubimg #c3} | [C3] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. "Can we Generalize and Distribute Private Representation Learning?" In International Conference on Artificial Intelligence and Statistics (AISTATS), 2022. <br/>[[paper]](https://proceedings.mlr.press/v151/shams-azam22a.html){:target="_blank"} [[preprint]](https://arxiv.org/abs/2010.01792){:target="_blank"} [[poster]](https://virtual.aistats.org/media/PosterPDFs/AISTATS%202022/4d6b3e38b952600251ee92fe603170ff.png){:target="_blank_""} [[slides]](https://drive.google.com/file/d/1-6gLEPDOoeS6W7HMgOarugukYGSckx6S/view?usp=sharing){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+| ![](/images/eigan.png){:.pubimg #c3} | [C3] _Sheikh Shams Azam_, [Taejin Kim][tj]{:target="_blank"}, [Seyyedali Hosseinalipour][ali]{:target="_blank"}, [Christopher G. Brinton][chris]{:target="_blank"}, [Carlee Joe-Wong][carlee]{:target="_blank"}, and [Saurabh Bagchi][bagchi]{:target="_blank"}. "Can we Generalize and Distribute Private Representation Learning?" In International Conference on Artificial Intelligence and Statistics (AISTATS), 2022. <br/>[[paper]](https://proceedings.mlr.press/v151/shams-azam22a.html){:target="_blank"} [[preprint]](https://arxiv.org/abs/2010.01792){:target="_blank"} [[poster]](https://virtual.aistats.org/media/PosterPDFs/AISTATS%202022/4d6b3e38b952600251ee92fe603170ff.png){:target="_blank_""} [[slides]](https://drive.google.com/file/d/1-6gLEPDOoeS6W7HMgOarugukYGSckx6S/view?usp=sharing){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
 
 <div class="collapsible-cite"><pre id='json'>
 @inproceedings{azam2022eigan,
@@ -47,7 +60,7 @@ table td:nth-of-type(2) {
 </pre></div>
 
 
-| ![](/images/flbeyondstar.png){:.pubimg #c2} | [C2] Lin, Frank Po-Chen, Seyyedali Hosseinalipour, _Sheikh Shams Azam_, Christopher G. Brinton, Nicolo Michelusi. "Federated Learning Beyond the Star: Local D2D Model Consensus with Global Cluster Sampling." In IEEE Global Communications Conference (GLOBECOM), 2021. <br/>[[paper]](https://ieeexplore.ieee.org/document/9685456){:target="_blank"} [[preprint]](https://arxiv.org/abs/2109.03350){:target="_blank"} [[slides]](https://drive.google.com/file/d/1C5dA-IaIZgnvjcWVaffAaOtPUtN8JRzL/view?usp=sharing){:target="_blank""} <button type="button" class="collapsible">[cite]</button> |
+| ![](/images/flbeyondstar.png){:.pubimg #c2} | [C2] [Frank Po-Chen Lin][frank]{:target="_blank"}, [Seyyedali Hosseinalipour][ali]{:target="_blank"}, _Sheikh Shams Azam_, [Christopher G. Brinton][chris]{:target="_blank"}, [Nicolò Michelusi][nicolo]{:target="_blank"}. "Federated Learning Beyond the Star: Local D2D Model Consensus with Global Cluster Sampling." In IEEE Global Communications Conference (GLOBECOM), 2021. <br/>[[paper]](https://ieeexplore.ieee.org/document/9685456){:target="_blank"} [[preprint]](https://arxiv.org/abs/2109.03350){:target="_blank"} [[slides]](https://drive.google.com/file/d/1C5dA-IaIZgnvjcWVaffAaOtPUtN8JRzL/view?usp=sharing){:target="_blank""} <button type="button" class="collapsible">[cite]</button> |
 
 <div class="collapsible-cite"><pre id='json'>
 @inproceedings{lin2021flbeyondstar,
@@ -61,7 +74,7 @@ table td:nth-of-type(2) {
 </pre></div>
 
 
-| ![](/images/cascadenet.png){:.pubimg #c1} | [C1] _Azam, Sheikh Shams_, Manoj Raju, Venkatesh Pagidimarri, and Vamsi Chandra Kasivajjala. "CASCADENET: An LSTM Based Deep Learning Model for Automated ICD-10 Coding." In Future of Information and Communication Conference (FICC), 2019. <br/>[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-12385-7_6){:target="_blank"} [[preprint]](https://www.researchgate.net/profile/Sheikh_Shams_Azam/publication/330831968_CASCADENET_An_LSTM_based_deep_learning_model_for_automated_ICD-10_coding/links/5cb464f2299bf12097666d63/CASCADENET-An-LSTM-based-deep-learning-model-for-automated-ICD-10-coding.pdf){:target="_blank"} [[slides]](https://drive.google.com/file/d/1P0-ih5VfSx4INWS9oRnezkNJ9PAnn1OI/view?usp=sharing){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+| ![](/images/cascadenet.png){:.pubimg #c1} | [C1] _Sheikh Shams Azam_, [Manoj Raju][manoj]{:target="_blank"}, [Venkatesh Pagidimarri][venki]{:target="_blank"}, and [Vamsi Chandra Kasivajjala][vamsi]{:target="_blank"}. "CASCADENET: An LSTM Based Deep Learning Model for Automated ICD-10 Coding." In Future of Information and Communication Conference (FICC), 2019. <br/>[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-12385-7_6){:target="_blank"} [[preprint]](https://www.researchgate.net/profile/Sheikh_Shams_Azam/publication/330831968_CASCADENET_An_LSTM_based_deep_learning_model_for_automated_ICD-10_coding/links/5cb464f2299bf12097666d63/CASCADENET-An-LSTM-based-deep-learning-model-for-automated-ICD-10-coding.pdf){:target="_blank"} [[slides]](https://drive.google.com/file/d/1P0-ih5VfSx4INWS9oRnezkNJ9PAnn1OI/view?usp=sharing){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
 
 <div class="collapsible-cite"><pre id='json'>
 @inproceedings{azam2020cascadenet,
@@ -78,7 +91,7 @@ table td:nth-of-type(2) {
 
 ## Journal
 
-| ![](/images/mhfl.png){:.pubimg #j3} | [J3] Hosseinalipour, Seyyedali, _Sheikh Shams Azam_, Christopher G. Brinton, Nicolo Michelusi, Vaneet Aggarwal, David J. Love, and Huaiyu Dai. "Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks." IEEE/ACM Transactions on Networking (TON), 2020. <br/>[[paper]](https://ieeexplore.ieee.org/document/9705093){:target="_blank"} [[preprint]](https://arxiv.org/abs/2007.09511){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+| ![](/images/mhfl.png){:.pubimg #j3} | [J3] [Seyyedali Hosseinalipour][ali]{:target="_blank"}, _Sheikh Shams Azam_, [Christopher G. Brinton][chris]{:target="_blank"}, [Nicolò Michelusi][nicolo]{:target="_blank"}, [Vaneet Aggarwal][vaneet]{:target="_blank"}, [David J. Love][djlove]{:target="_blank"}, and [Huaiyu Dai][huaiyu]{:target="_blank"}. "Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks." IEEE/ACM Transactions on Networking (TON), 2020. <br/>[[paper]](https://ieeexplore.ieee.org/document/9705093){:target="_blank"} [[preprint]](https://arxiv.org/abs/2007.09511){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
 
 <div class="collapsible-cite"><pre id='json'>
 @article{hosseinalipour2022multistagefl,  
@@ -94,7 +107,7 @@ table td:nth-of-type(2) {
 </pre></div>
 
 
-| ![](/images/tthl.png){:.pubimg #j2} | [J2] Lin, Frank Po-Chen, Seyyedali Hosseinalipour, _Sheikh Shams Azam_, Christopher G. Brinton, and Nicolo Michelusi. "Semi-decentralized federated learning with cooperative D2D local model aggregations." IEEE Journal on Selected Areas in Communications (JSAC) (2021). <br/>[[paper]](https://ieeexplore.ieee.org/abstract/document/9562522){:target="_blank"} [[preprint]](https://arxiv.org/abs/2103.10481){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+| ![](/images/tthl.png){:.pubimg #j2} | [J2] [Frank Po-Chen Lin][frank]{:target="_blank"}, [Seyyedali Hosseinalipour][ali]{:target="_blank"}, _Sheikh Shams Azam_, [Christopher G. Brinton][chris]{:target="_blank"}, and [Nicolò Michelusi][nicolo]{:target="_blank"}. "Semi-decentralized federated learning with cooperative D2D local model aggregations." IEEE Journal on Selected Areas in Communications (JSAC) (2021). <br/>[[paper]](https://ieeexplore.ieee.org/abstract/document/9562522){:target="_blank"} [[preprint]](https://arxiv.org/abs/2103.10481){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
 
 <div class="collapsible-cite"><pre id='json'>
 @article{lin2021semidecentralizedfl,
@@ -110,7 +123,7 @@ table td:nth-of-type(2) {
 </pre></div>
 
 
-| ![](/images/qmap.png){:.pubimg #j1} | [J1] _Azam, Sheikh Shams_, Manoj Raju, Venkatesh Pagidimarri, and Vamsi Chandra Kasivajjala. "Q-Map: Clinical Concept Mining from Clinical Documents." World Academy of Science, Engineering and Technology, International Journal of Computer and Information Engineering (2018). <br/>[[paper]](https://publications.waset.org/10009490/pdf){:target="_blank"} [[preprint]](https://arxiv.org/abs/1804.11149){:target="_blank"} [[slides]](https://drive.google.com/file/d/1DGFSsaRQIcWbYTSgilYVWDCwiikDg_Fh/view?usp=sharing){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+| ![](/images/qmap.png){:.pubimg #j1} | [J1] _Sheikh Shams Azam_, [Manoj Raju][manoj]{:target="_blank"}, [Venkatesh Pagidimarri][venki]{:target="_blank"}, and [Vamsi Chandra Kasivajjala][vamsi]{:target="_blank"}. "Q-Map: Clinical Concept Mining from Clinical Documents." World Academy of Science, Engineering and Technology, International Journal of Computer and Information Engineering (2018). <br/>[[paper]](https://publications.waset.org/10009490/pdf){:target="_blank"} [[preprint]](https://arxiv.org/abs/1804.11149){:target="_blank"} [[slides]](https://drive.google.com/file/d/1DGFSsaRQIcWbYTSgilYVWDCwiikDg_Fh/view?usp=sharing){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
 
 <div class="collapsible-cite"><pre id='json'>
 @article{azam2018qmap,
@@ -129,7 +142,7 @@ table td:nth-of-type(2) {
 
 ## Workshop
 
-| ![](/images/eigan.png){:.pubimg #w1} | [W1] _Azam, Sheikh Shams_, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. "A Generalized and Distributable Generative Model for Private Representation Learning." In NeurIPS Workshop on Deep Generative Models and Downstream Applications, 2021. <br/>[[paper]](https://openreview.net/forum?id=cRKEnMKHY_z){:target="_blank"} [[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202021/1f0e3dad99908345f7439f8ffabdffc4_UI8GosF.png){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+| ![](/images/eigan.png){:.pubimg #w1} | [W1] _Sheikh Shams Azam_, [Taejin Kim][tj]{:target="_blank"}, [Seyyedali Hosseinalipour][ali]{:target="_blank"}, [Christopher G. Brinton][chris]{:target="_blank"}, [Carlee Joe-Wong][carlee]{:target="_blank"}, and [Saurabh Bagchi][bagchi]{:target="_blank"}. "A Generalized and Distributable Generative Model for Private Representation Learning." In NeurIPS Workshop on Deep Generative Models and Downstream Applications, 2021. <br/>[[paper]](https://openreview.net/forum?id=cRKEnMKHY_z){:target="_blank"} [[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202021/1f0e3dad99908345f7439f8ffabdffc4_UI8GosF.png){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
 
 <div class="collapsible-cite"><pre id='json'>
 @inproceedings{azam2022eigan,
@@ -149,7 +162,7 @@ table td:nth-of-type(2) {
 
 ## Thesis
 
-| ![](/images/purdue-logo.png){:.pubimg #t1} | [T1] _Azam, Sheikh Shams_. "Towards Privacy and Communication Efficiency in Distributed Representation Learning." Purdue University Graduate School, 2022. DOI: [10.25394/PGS.20029550.v1](https://doi.org/10.25394/PGS.20029550.v1){:target="_blank"}. <br/>[[thesis]](https://hammer.purdue.edu/articles/thesis/Towards_Privacy_and_Communication_Efficiency_in_Distributed_Representation_Learning/20029550/1){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+| ![](/images/purdue-logo.png){:.pubimg #t1} | [T1] _Sheikh Shams Azam_. "Towards Privacy and Communication Efficiency in Distributed Representation Learning." Purdue University Graduate School, 2022. DOI: [10.25394/PGS.20029550.v1](https://doi.org/10.25394/PGS.20029550.v1){:target="_blank"}. <br/>[[thesis]](https://hammer.purdue.edu/articles/thesis/Towards_Privacy_and_Communication_Efficiency_in_Distributed_Representation_Learning/20029550/1){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
 
 <div class="collapsible-cite"><pre id='json'>
 @article{azam2022towardsprivacy, 
@@ -164,8 +177,21 @@ table td:nth-of-type(2) {
 
 [ch]: [chris](link)
 [ali]: https://sites.google.com/ncsu.edu/seyyedalihosseinalipour
+[bagchi]: https://bagchi.github.io
+[carlee]: https://www.andrew.cmu.edu/user/cjoewong/
 [chris]: https://cbrinton.net
+[djlove]: https://engineering.purdue.edu/~djlove/
+[frank]: https://lin-frank.weebly.com
+[huaiyu]: https://ece.ncsu.edu/people/hdai/
+[inouye]: https://www.davidinouye.com
+[manoj]: https://in.linkedin.com/in/rajumanoj
+[nicolo]: https://faculty.engineering.asu.edu/michelusi/
 [qiu]: https://web.ics.purdue.edu/~qqiu/
+[tj]: https://www.linkedin.com/in/tjkim7
+[vamsi]: https://www.linkedin.com/in/vamsichandrakasivajjala
+[vaneet]: https://web.ics.purdue.edu/~vaneet/
+[venki]: https://in.linkedin.com/in/venkateshpagidimarri
+[zeyu]: https://www.linkedin.com/in/zeyu-zhou-185a41225/
 
 <script>
 var coll = document.getElementsByClassName("collapsible");

@@ -20,10 +20,13 @@ My research interest lies at the intersection of _Representation Learning, Densi
 
 ## Recent Updates
 
+- Jan, 2023
+    - Our paper ["Efficient Federated Domain Translation"](https://openreview.net/forum?id=uhLAcrAZ9cJ){:target="_blank"} got accepted at the [International Conference on Learning Representations (ICLR), 2023](https://iclr.cc/){:target="_blank"}.
+
 - May, 2022
     - Selected as 1 among the 10 [AIML Residents at Apple](https://machinelearning.apple.com/updates/aiml-residency-program-application){:target="_blank"} for the year 2022.
     - Successfully defended M.S. thesis: ["Towards Privacy and Communication Efficiency in Distributed Representation Learning"](https://hammer.purdue.edu/articles/thesis/Towards_Privacy_and_Communication_Efficiency_in_Distributed_Representation_Learning/20029550/1){:target="_blank"}
-    - We submitted our paper "Efficient Federated Domain Translation" to [NeurIPS, 2022](https://nips.cc/Conferences/2022/Dates){:target="_blank"}
+<!-- - We submitted our paper "Efficient Federated Domain Translation" to [NeurIPS, 2022](https://nips.cc/Conferences/2022/Dates){:target="_blank"} -->
 
 - March, 2022
     - Selected for [Google Research](https://research.google/){:target="_blank"} Summer Internship, 2022.
