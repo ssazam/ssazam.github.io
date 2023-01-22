@@ -5,7 +5,7 @@ excerpt: Home
 
 ## About Me
 
-I am an _AIML Resident_ (class of 2022) at Siri Speech, Apple . My main research focus lies in the domains of _distributed (federated) learning of large scale (ASR) models_ addressing challenges related to data scarcity, data heterogeneity, privacy, personalization, and interpretability.
+I am an _AIML Resident_ (class of 2022) at Siri Speech, Apple. My main research focus lies in the domains of _distributed (federated) learning of large scale ASR models_ addressing challenges related to data scarcity, data heterogeneity, privacy, personalization, and interpretability.
 
 I graduated with a M.S (Thesis: ["Towards Privacy and Communication Efficiency in Distributed Representation Learning."](/publications#t1)) from the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE){:target="_blank"} specializing in _machine learning and artificial intelligence_ at [Purdue Univesity](https://www.purdue.edu/){:target="_blank"} advised by [Dr. Christopher Brinton](http://www.cbrinton.net/){:target="_blank"}. I have also had the opportunity of actively collaborating with [Dr. David Inouye](https://www.davidinouye.com){:target="_blank"}, [Dr. Qiang Qiu](https://web.ics.purdue.edu/~qqiu/){:target="_blank"}, [Dr. Saurabh Bagchi](https://engineering.purdue.edu/~sbagchi/){:target="_blank"}, and [Dr. Seyyedali Hosseinalipour](https://sites.google.com/ncsu.edu/seyyedalihosseinalipour){:target="_blank"}.
 
