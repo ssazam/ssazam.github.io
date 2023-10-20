@@ -14,9 +14,37 @@ table td:nth-of-type(2) {
 }
 </style>
 
+## Pre-prints
+
+| ![](/images/fl-with-dp-transformer-asr.png){:.pubimg #p1} | [P1] [Martin Pelikan][martin]{:target="_blank"}, _Sheikh Shams Azam_, [Vitaly Feldman][vitaly]{:target:"_blank"}, [Jan "Honza" Silovsky][honza]{:target="_blank"}, [Kunal Talwar][kunal]{:target="_blank"}, and [Tatiana Likhomanenko][tatiana]{:target="_blank"}. "Federated Learning with Differential Privacy for End-to-End Speech Recognition." arXiv preprint arXiv:2310.00098, 2023. <br/>[[preprint]](https://arxiv.org/abs/2310.00098){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+
+<div class="collapsible-cite"><pre id='json'>
+@article{pelikan2023federated,
+  title={Federated Learning with Differential Privacy for End-to-End Speech Recognition},
+  author={Pelikan, Martin and Azam, Sheikh Shams and Feldman, Vitaly and Silovsky, Jan and Talwar, Kunal and Likhomanenko, Tatiana and others},
+  journal={arXiv preprint arXiv:2310.00098},
+  year={2023},
+  url={https://arxiv.org/abs/2310.00098},
+}
+</pre></div>
+
+
 ## Conference
 
-| ![](/images/fedinb.png){:.pubimg #c5} | [C5] [Zeyu Zhou][zeyu]{:target="_blank"}, _Sheikh Shams Azam_, [Christopher G. Brinton][chris]{:target="_blank"}, and [David I. Inouye][inouye]{:target="_blank"}. "Efficient Federated Domain Translation " In International Conference on Learning Representations (ICLR), 2023. <br/>[[paper]](https://openreview.net/forum?id=uhLAcrAZ9cJ){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+| ![](/images/fl-wenet.png){:.pubimg #c6} | [C6] _Sheikh Shams Azam_, [Tatiana Likhomanenko][tatiana]{:target="_blank"}, [Martin Pelikan][martin]{:target="_blank"}, and [Jan "Honza" Silovsky][honza]{:target="_blank"}. "Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR." In IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2023. <br/>[[preprint]](https://arxiv.org/abs/2309.13102){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+
+<div class="collapsible-cite"><pre id='json'>
+@inproceedings{azam2023importance,
+  title={Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR},
+  author={Sheikh Shams Azam and Tatiana Likhomanenko and Martin Pelikan and Jan Silovsky},
+  booktitle={IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)},
+  year={2023},
+  url={https://arxiv.org/abs/2309.13102},
+}
+</pre></div>
+
+
+| ![](/images/fedinb.png){:.pubimg #c5} | [C5] [Zeyu Zhou][zeyu]{:target="_blank"}, _Sheikh Shams Azam_, [Christopher G. Brinton][chris]{:target="_blank"}, and [David I. Inouye][inouye]{:target="_blank"}. "Efficient Federated Domain Translation." In International Conference on Learning Representations (ICLR), 2023. <br/>[[paper]](https://openreview.net/forum?id=uhLAcrAZ9cJ){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
 
 <div class="collapsible-cite"><pre id='json'>
 @inproceedings{zhou2023fedinb,
@@ -182,15 +210,20 @@ table td:nth-of-type(2) {
 [chris]: https://cbrinton.net
 [djlove]: https://engineering.purdue.edu/~djlove/
 [frank]: https://lin-frank.weebly.com
+[honza]: https://www.linkedin.com/in/jan-silovsky-5812a14a/
 [huaiyu]: https://ece.ncsu.edu/people/hdai/
 [inouye]: https://www.davidinouye.com
+[kunal]: http://kunaltalwar.org/
 [manoj]: https://in.linkedin.com/in/rajumanoj
+[martin]: https://martinpelikan.net/
 [nicolo]: https://faculty.engineering.asu.edu/michelusi/
 [qiu]: https://web.ics.purdue.edu/~qqiu/
+[tatiana]: https://github.com/tlikhomanenko
 [tj]: https://www.linkedin.com/in/tjkim7
 [vamsi]: https://www.linkedin.com/in/vamsichandrakasivajjala
 [vaneet]: https://web.ics.purdue.edu/~vaneet/
 [venki]: https://in.linkedin.com/in/venkateshpagidimarri
+[vitaly]: http://vtaly.net/
 [zeyu]: https://www.linkedin.com/in/zeyu-zhou-185a41225/
 
 <script>

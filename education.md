@@ -6,9 +6,9 @@ layout: resume
 ## Education
 
 ![](/images/purdue-logo.png){:.eduimg}
-`August 2019 - May 2022`
+`August 2019 - July 2022`
 [__Purdue University__](https://www.purdue.edu/){:target="_blank" style="color:#343434"}
-<br/>M.S ([Thesis](/publications#t1)) in Electrical and Computer Engineering
+<br/>M.S with [Thesis](/publications#t1) in Electrical and Computer Engineering
 
 ![](/images/nitk-logo.png){:.eduimg}
 `August 2011 - May 2015`

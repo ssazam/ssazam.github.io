@@ -6,12 +6,25 @@ layout: resume
 ![](/images/siri-logo.png){:.eduimg}
 `July 2022 - Present`
 __Apple, Cambridge, MA__
-<br/>AIML Resident
+<br/>Research Scientist, AIML Resident
+
+<ul>
+  <li class="resume-li">Understanding Adaptive Optimizers in Federated Learning for E2E ASR <button type="button" class="collapsible">[details]</button></li>
+    <div class="collapsible-details">
+    To address research gaps in Federated Learning (FL) for End-to-End Automatic Speech Recognition (E2E ASR), we review conventional FL research, revealing that adaptive optimizers enhance coordination among heterogeneous client updates and some optimizers induce smoother optimization subspace thus improving the performance of FL system (see <a href="/publications/#c6">Publications - C6</a>).
+    </div>
+
+  <li class="resume-li">Federated Learning with Differential Privacy for End-to-End Speech Recognition <button type="button" class="collapsible">[details]</button></li>
+    <div class="collapsible-details">
+    We work on first steps towards having on-device training for ASR with federated learning and privacy preservation to deliver privacy to users and improve ASR with using more data / context from on-device training (see <a href="/publications/#p1">Publications - P1</a>).
+    </div>
+</ul>
+
 
 <br/>
 
 ![](/images/purdue-logo.png){:.eduimg}
-`August 2019 - June 2022`
+`August 2019 - July 2022`
 __Purdue University__
 <br/>Graduate Research Assistant (RA)
 
