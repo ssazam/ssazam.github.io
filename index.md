@@ -20,6 +20,9 @@ My research interest lies at the intersection of _Representation Learning, Densi
 
 ## Recent Updates
 
+- November, 2023
+    - Our paper ["Federated Learning for Speech Recognition: Revisiting Current Trends Towards Large-Scale ASR."](https://openreview.net/forum?id=ozN92d7CHX){:target="_blank"} got accepted at the [International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS, 2023](https://federated-learning.org/fl@fm-neurips-2023/){:target="_blank"}
+
 - September, 2023
     - Preprint of our paper ["Federated Learning with Differential Privacy for End-to-End Speech Recognition"](https://arxiv.org/abs/2310.00098){:target="_blank"} is available.
     - Our paper ["Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR."](https://arxiv.org/abs/2309.13102){:target="_blank"} got accepted at the [IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2023](http://www.asru2023.org/){:target="_blank"}
