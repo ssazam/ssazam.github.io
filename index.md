@@ -20,6 +20,9 @@ My research interest lies at the intersection of _Representation Learning, Densi
 
 ## Recent Updates
 
+- May, 2024
+    - Our paper ["Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks." IEEE/ACM Transactions on Networking (TON), 2020](https://ieeexplore.ieee.org/document/9705093){:target="_blank"} received the [IEEE Communications Society William Bennett Prize, 2024](https://www.comsoc.org/about/awards/paper-awards/ieee-communications-society-william-r-bennett-prize){:target="_blank"}.
+
 - November, 2023
     - Our paper ["Federated Learning for Speech Recognition: Revisiting Current Trends Towards Large-Scale ASR."](https://openreview.net/forum?id=ozN92d7CHX){:target="_blank"} got accepted at the [International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS, 2023](https://federated-learning.org/fl@fm-neurips-2023/){:target="_blank"}
 
