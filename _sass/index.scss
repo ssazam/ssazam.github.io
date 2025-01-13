@@ -1,0 +1,29 @@
+.article-author-side {
+        @include grid(12,10);
+	@include prefix(12,1);
+	@include suffix(12,1);
+	display: block;
+	.social-large {
+		display: none;
+	}
+	.bio-photo {
+		@include rounded(10px);
+		max-width: 170px;
+		margin-top: 2.6em;
+	}
+	@media #{$small} {
+		@include grid(12,6);
+		@include prefix(12,1);
+		@include suffix(12,1);
+		.social-large {
+			display: block;
+		}
+	}
+	@media #{$x-large} {
+		@include grid(12,1.5);
+		@include prefix(12,2);
+		.social-large {
+			display: block;
+		}
+	}
+}
