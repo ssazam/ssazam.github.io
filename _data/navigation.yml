@@ -16,14 +16,14 @@
   url: /education/
   blank: no
 
-- title: CV
-  url: /SheikhShamsAzam_CV.pdf
-  blank: yes
-
 - title: Projects
   url: /projects/
   blank: no
 
 - title: Notes
   url: https://notes.pairml.com
+  blank: yes
+
+- title: CV
+  url: /SheikhShamsAzam_CV.pdf
   blank: yes

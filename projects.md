@@ -8,6 +8,7 @@ layout: resume
 
 ## ML Projects
 
+- <code id='p9'>[P9]</code> Investigating Key Factors influencing Student Exam Performance: _Does the mental health of a student significantly impact their final grades?_. STAT 512, Purdue University, Fall 2024. [[pdf]](https://drive.google.com/file/d/1wGvg6nCFW0dbhUH6MOlMMFOkSX8n2mXP/view?usp=sharing){:target="_blank"}
 - <code id='p8'>[P8]</code> **BetaFold**: A Lightweight Protein Prediction Architecture. ECE 695, Purdue University, Spring 2022. [[pdf]](https://github.com/shams-sam/BetaFold/blob/master/BetaFold.pdf){:target="_blank"} [[slides]](https://github.com/shams-sam/BetaFold/blob/master/BetaFold_Slides.pdf){:target="_blank"} [[code]](https://github.com/shams-sam/BetaFold){:target="_blank"}
 - <code id='p7'>[P7]</code> Customer Conversion Prediction and Marketing Assistance using **NLP, Connected Components, and CatBoost**. Purdue University, Spring 2021. [[pdf]](https://drive.google.com/file/d/11mhq_UibvvuBFOEbcPq3ZYnkzN8_XdPZ/view?usp=sharing){:target="_blank"}
 - <code id='p6'>[P6]</code> Variational Auto-Encoder for **Multimodal Representation Learning**. ECE 570, Purdue University, Fall 2021. [[pdf]](https://github.com/shams-sam/MultiModal-VAE/blob/master/Multimodal_VAE.pdf){:target="_blank"} [[slides]](https://github.com/shams-sam/MultiModal-VAE/blob/master/Multimodal_VAE_Slides.pdf){:target="_blank"} [[code]](https://github.com/shams-sam/MultiModal-VAE){:target="_blank"}

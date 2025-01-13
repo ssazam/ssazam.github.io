@@ -25,6 +25,9 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/cvmain.css">
+{% if page.excerpt == "Home" %}
+    <link rel="stylesheet" href="{{ site.github.url }}/assets/css/index.css">
+{% endif %}
 
 
 <meta http-equiv="cleartype" content="on">

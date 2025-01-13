@@ -5,19 +5,39 @@ excerpt: Home
 
 ## About Me
 
-I am currently a _Research Scientist_ at Siri Speech, Apple. My research at Apple focuses on _distributed (federated) learning_ and/or _active learning_ towards large-scale _production-oriented_ ASR models, with an aim to address challenges related to _privacy_, data/device heterogeneity, large-model training, data scarcity, _personalization_, and interpretability.
+I am currently a _researcher_ at Siri Speech, Apple with a focus on advancing large-scale, production-oriented automatic speech recognition (ASR) models. My research centers on two key areas to ensure robust and scalable solutions for real-world applications:
+- _active learning_ to tackle challenges such as uncertainty modeling (e.g., estimating label (or transcription) noise) and optimizing data selection within a semi-supervised framework that incorporates feedback and
+- _distributed (federated) learning_ to address critical real-world concerns including user privacy, data and device heterogeneity, personalization, and interpretability.
 
-I joined Apple's Class of 2022 _AIML Residents_ in July, 2022 after graduating with a Master of Science (MS) with thesis titled ["Towards Privacy and Communication Efficiency in Distributed Representation Learning."](/publications#t1)) from the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE){:target="_blank"}, [Purdue Univesity](https://www.purdue.edu/){:target="_blank"} advised by [Dr. Christopher Brinton](http://www.cbrinton.net/){:target="_blank"}. During graduate studies, I also actively collaborated with [Dr. David Inouye](https://www.davidinouye.com){:target="_blank"}, [Dr. Qiang Qiu](https://web.ics.purdue.edu/~qqiu/){:target="_blank"}, [Dr. Saurabh Bagchi](https://engineering.purdue.edu/~sbagchi/){:target="_blank"}, and [Dr. Seyyedali Hosseinalipour](https://sites.google.com/ncsu.edu/seyyedalihosseinalipour){:target="_blank"}.
+I joined Apple's Class of 2022 _AIML Residents_ in July 2022 after earning a Master of Science (MS) degree from the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE){:target="_blank"} at [Purdue Univesity](https://www.purdue.edu/){:target="_blank"}. My thesis titled ["Towards Privacy and Communication Efficiency in Distributed Representation Learning."](/publications#t1)  was completed under the supervision of [Dr. Christopher Brinton](http://www.cbrinton.net/){:target="_blank"}. During graduate studies, I also actively collaborated with [Dr. David Inouye](https://www.davidinouye.com){:target="_blank"}, [Dr. Qiang Qiu](https://web.ics.purdue.edu/~qqiu/){:target="_blank"}, [Dr. Saurabh Bagchi](https://engineering.purdue.edu/~sbagchi/){:target="_blank"}, and [Dr. Seyyedali Hosseinalipour](https://sites.google.com/ncsu.edu/seyyedalihosseinalipour){:target="_blank"}, broadening my expertise across multiple domains.
 
 <!--
 I received my Bachelor's degree in [Electrical and Electronics Engineering](https://eee.nitk.ac.in/){:target="_blank"} from the [National Institute of Technology Karnataka](https://www.nitk.ac.in/){:target="_blank"} in 2015. My Bachelor's thesis focused on "Supervised and Unsupervised Techniques for Image Segmentation" advised by [Dr. Ashvini Chaturvedi](https://ece.nitk.ac.in/professor/ashvini-chaturvedi){:target="_blank"}. I also collaborated with [Dr. K Manjunatha Sharma](https://eee.nitk.ac.in/professor/KMS){:target="_blank"} on miniprojects to develop smart-switches using signal processing and ML techniques.
 
 Prior to joining Purdue, I worked for a year as a Research Scientist at a California-based AI-solutions startup [Foundation AI](https://www.foundationai.com/){:target="_blank"} and for over 3 years as Data Scientist at a Bangalore-based healthcare startup [Practo](https://www.practo.com/){:target="_blank"}. During my time in the industry, I have built scalable ML solutions deployed in production tackling real-world problems by leveraging advances in computer vision (CV), Natural Language Processing (NLP) and Deep Learning (DL).
--->
 
 ## Research Interests
 My research interest lies at the intersection of _Representation Learning, Density Estimation, and Distributed Learning_. One of the main focuses of my work is to reduce the dependence on a  _large labeled dataset_ in model training by developing algorithms that are either predominantly  _unsupervised, self-supervised_ and/or _federated_ in nature. I also have an interest in the design and analysis of representation learning algorithms that are _scalable, communication-efficient, memory-efficient, and robust_ to adversarial perturbations. I have recently started exploring the role of deep reinforcement learning and its integration with unsupervised learning.
+-->
 
+## Academic Service
+
+<style>
+table td:first-of-type {
+    width: 20%;
+}
+table td:nth-of-type(2) {
+    width: 78%;
+    padding-right: 2%;
+}
+</style>
+
+
+| _Area Chair_ | ICML 2025, NeurIPS 2024 |
+| _Reviewer_   | ICLR 2024-25, AAAI 2025, ICML 2024, IJCAI 2024, NeurIPS 2023, IEEE Transactions on Networking 2023, AISTATS (2022-23) |
+
+
+<!--
 ## Recent Updates
 
 - May, 2024
@@ -36,7 +56,6 @@ My research interest lies at the intersection of _Representation Learning, Densi
 - Jan, 2023
     - Our paper ["Efficient Federated Domain Translation"](https://openreview.net/forum?id=uhLAcrAZ9cJ){:target="_blank"} got accepted at the [International Conference on Learning Representations (ICLR), 2023](https://iclr.cc/){:target="_blank"}.
 
-<!--
 - May, 2022
     - Selected as 1 among the 10 [AIML Residents at Apple](https://machinelearning.apple.com/updates/aiml-residency-program-application){:target="_blank"} for the year 2022.
     - Successfully defended M.S. thesis: ["Towards Privacy and Communication Efficiency in Distributed Representation Learning"](https://hammer.purdue.edu/articles/thesis/Towards_Privacy_and_Communication_Efficiency_in_Distributed_Representation_Learning/20029550/1){:target="_blank"}

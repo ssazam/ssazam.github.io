@@ -4,6 +4,10 @@ layout: resume
 ---
 
 ## Education
+![](/images/purdue-logo.png){:.eduimg}
+`August 2024 - Present`
+[__Purdue University__](https://www.purdue.edu/){:target="_blank" style="color:#343434"}
+<br/>Ph.D in Electrical and Computer Engineering
 
 ![](/images/purdue-logo.png){:.eduimg}
 `August 2019 - July 2022`
@@ -33,6 +37,7 @@ table td:nth-of-type(3) {
 
 **Mathematics**
 
+| [STAT 512](https://boilerclasses.com/detail/STAT51200AppliedRegressionAnalysis){:target="_blank"} | Applied Regression Analysis | [Prof. Tiantian Qin](https://www.stat.purdue.edu/people/faculty/tqin.html){:target="_blank"} |
 | [MA 511](https://www.math.purdue.edu/academic/courses/coursepage?subject=MA&course=51100){:target="_blank"} | Linear Algebra & Its Applications | [Prof. Saugata Basu](https://www.math.purdue.edu/~sbasu/){:target="_blank"} |
 | [ECE 600](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/pdf/UGO/Policies/UGO/CourseInfo/courseInfo?courseid=145&show=true&type=grad){:target="_blank"} | Random Variables | [Prof. Mark Bell](https://engineering.purdue.edu/ECE/People/ptPeopleListing?group_id=2571&resource_id=3137){:target="_blank"} |
 | [MA 504](https://www.math.purdue.edu/academic/courses/coursepage?subject=MA&course=50400){:target="_blank"} | Real Analysis | [Prof. Laszlo Lempert](https://www.math.purdue.edu/~lempert/){:target="_blank"} |
