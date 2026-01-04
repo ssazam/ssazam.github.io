@@ -33,8 +33,8 @@ table td:nth-of-type(2) {
 </style>
 
 
-| _Area Chair_ | ICML 2025, NeurIPS 2024 |
-| _Reviewer_   | ICLR 2024-25, AAAI 2025, ICML 2024, IJCAI 2024, NeurIPS 2023, IEEE Transactions on Networking 2023, AISTATS (2022-23) |
+| _Area Chair_ | ICML 2025-26, NeurIPS 2024-25 |
+| _Reviewer_   | ICLR 2024-26, AAAI 2025-26, ICML 2024, IJCAI 2024, NeurIPS 2023, IEEE Transactions on Networking 2023, AISTATS 2022-23 |
 
 
 <!--

@@ -14,22 +14,19 @@ table td:nth-of-type(2) {
 }
 </style>
 
-## Pre-prints
+## Conference
 
-| ![](/images/fl-with-dp-transformer-asr.png){:.pubimg #p1} | [P1] [Martin Pelikan][martin]{:target="_blank"}, _Sheikh Shams Azam_, [Vitaly Feldman][vitaly]{:target:"_blank"}, [Jan "Honza" Silovsky][honza]{:target="_blank"}, [Kunal Talwar][kunal]{:target="_blank"}, and [Tatiana Likhomanenko][tatiana]{:target="_blank"}. "Federated Learning with Differential Privacy for End-to-End Speech Recognition." arXiv preprint arXiv:2310.00098, 2023. <br/>[[preprint]](https://arxiv.org/abs/2310.00098){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
+| ![](/images/fl-with-dp-transformer-asr.png){:.pubimg #c7} | [C7] [Martin Pelikan][martin]{:target="_blank"}<sup>\*</sup>, _Sheikh Shams Azam_<sup>\*</sup>, [Vitaly Feldman][vitaly]{:target:"_blank"}, [Jan "Honza" Silovsky][honza]{:target="_blank"}, [Kunal Talwar][kunal]{:target="_blank"}, [Christopher G. Brinton][chris]{:target="_blank"} and [Tatiana Likhomanenko][tatiana]{:target="_blank"}<sup>\*</sup>. "Enabling Differentially Private Federated Learning for Speech Recognition: Benchmarks, Adaptive Optimizers, and Gradient Clipping." In Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. <br/>[[paper]](https://openreview.net/forum?id=4HZaFk9O4r){:target="_blank"}  [[apple-ml]](https://machinelearning.apple.com/research/enabling){:target="_blank"} [[preprint]](https://arxiv.org/abs/2310.00098){:target="_blank"} [[poster]](https://drive.google.com/file/d/1coVdLn8yCiQWy7PhybdXV-NVDd0h7NmD/view?usp=sharing){:target="_blank"} [[slides]](https://drive.google.com/file/d/19wk3dLcV8aB-GPms_dCyQCFRZmmr1oIT/view?usp=sharing){:target="_blank"} [[code]](https://github.com/apple/ml-pfl4asr){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
 
 <div class="collapsible-cite"><pre id='json'>
-@article{pelikan2023federated,
-  title={Federated Learning with Differential Privacy for End-to-End Speech Recognition},
-  author={Pelikan, Martin and Azam, Sheikh Shams and Feldman, Vitaly and Silovsky, Jan and Talwar, Kunal and Likhomanenko, Tatiana},
-  journal={arXiv preprint arXiv:2310.00098},
-  year={2023},
-  url={https://arxiv.org/abs/2310.00098},
+@inproceedings{pelikan2025enabling,
+  title={Enabling Differentially Private Federated Learning for Speech Recognition: Benchmarks, Adaptive Optimizers, and Gradient Clipping},
+  author={Pelikan, Martin and Azam, Sheikh Shams and Feldman, Vitaly and Silovsky, Jan and Talwar, Kunal and Brinton, Christopher and Likhomanenko, Tatiana},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025},
+  url={https://openreview.net/forum?id=4HZaFk9O4r}
 }
 </pre></div>
-
-
-## Conference
 
 | ![](/images/fl-wenet.png){:.pubimg #c6} | [C6] _Sheikh Shams Azam_, [Tatiana Likhomanenko][tatiana]{:target="_blank"}, [Martin Pelikan][martin]{:target="_blank"}, and [Jan "Honza" Silovsky][honza]{:target="_blank"}. "Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR." In IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2023. <br/>[[paper]](https://ieeexplore.ieee.org/document/10389620){:target="_blank"} [[apple-ml]](https://machinelearning.apple.com/research/smoothness-induced){:target="_blank"} [[preprint]](https://arxiv.org/abs/2309.13102){:target="_blank"} [[video]](https://www.youtube.com/watch?v=QZhwYMKDstY){:target="_blank"} [[poster]](https://drive.google.com/file/d/1248ozXuHmJGWn1ndGeEF-em_4lg25XlO/view?usp=drive_link){:target="_blank"} [[slides]](https://drive.google.com/file/d/123N70oIrN3npmxRpjBPOsZ2ttppp7Cxp/view?usp=drive_link){:target="_blank"} <button type="button" class="collapsible">[cite]</button> |
 
